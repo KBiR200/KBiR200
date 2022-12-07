@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @KBiR200
-- 👀 I’m interested in Python 
+- 👀 I’m owrking with Python 
 - 🌱 I’m currently learning C++
+
+Mostly working on data!!
 
 <!---
 KBiR200/KBiR200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
